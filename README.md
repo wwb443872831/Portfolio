@@ -7,9 +7,9 @@ SmartMemo是一款基于地理位置的备忘提醒应用；
 
 ExgCard是多功能名片交换应用；
 
-FindYou是基于地理位置的社交应用。
+FindYou是基于地理位置的社交应用；
 
-flyskyweb是以上应用的Web后台服务
+flyskyweb是以上应用的Web后台服务。
 
 ---
 
